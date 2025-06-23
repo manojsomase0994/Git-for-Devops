@@ -1,0 +1,1 @@
+bug2.txt file have two time in this bug2.txt branch
